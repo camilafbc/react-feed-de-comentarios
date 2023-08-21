@@ -6,7 +6,7 @@
 
 ##
 
-Projeto desenvolvido como atividade do curso de Desenvolvimento Full Stack JS com a finalidade de compreender a utilização do hook useState e da renderização condicional.
+Projeto desenvolvido como atividade do curso de Desenvolvimento Full Stack JS com a finalidade de compreender a utilização do hook useState e da renderização condicional no React JS.
 
 O projeto pode ser acessado aqui 👉 https://react-feed-de-comentarios.vercel.app/
 
